@@ -39,8 +39,8 @@ The project structure includes packages for controllers, services, models, and e
 - **GET /api/v1/users/dateRange**: Search for users by birth date range.
 
 ## Testing
-Unit tests cover various scenarios for the controller and service layers. Use tools like JUnit and MockMvc for testing.
-Run the application using `mvn test`.
+- Unit tests cover various scenarios for the controller and service layers. Use tools like JUnit and MockMvc for testing.
+- Run the application using `mvn test`.
 
 ---
 
