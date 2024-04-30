@@ -28,7 +28,7 @@ The project structure includes packages for controllers, services, models, and e
 1. Clone the repository to your local machine.
 2. Ensure you have Java 17 and Maven installed.
 3. Build the project using `mvn clean install`.
-4. Run the application using `mvn spring-boot:run`.
+4. Run the application using `mvn run`.
 
 ## API Endpoints
 - **GET /api/v1/users**: Get all users.
@@ -40,6 +40,7 @@ The project structure includes packages for controllers, services, models, and e
 
 ## Testing
 Unit tests cover various scenarios for the controller and service layers. Use tools like JUnit and MockMvc for testing.
+Run the application using `mvn test`.
 
 ---
 
